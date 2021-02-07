@@ -1,0 +1,244 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 374px) and (max-width: 575.98px) {
+    #baner-area .custom-form .form-btn-custom {
+        padding: 7px 0px;
+        width: 100%;
+        font-size: 12px;
+        font-weight: 600;
+        color: #fff;
+    }
+
+    #baner-area .baner-content h4 {
+        font-size: 14px;
+    }
+
+    #baner-area .baner-content p {
+        font-size: 12px;
+    }
+
+    #baner-area .form-wrap p {
+        font-size: 12px;
+    }
+
+    #baner-area .custom-form .form-control::placeholder {
+        font-size: 8px;
+    }
+
+    #services h4.service-heading {
+        font-size: 15px;
+    }
+
+    #services p.service-text {
+        font-size: 12px;
+    }
+
+    #services .icon a i {
+        font-size: 40px;
+    }
+
+    #about .about-content h2 {
+        font-size: 20px;
+    }
+
+    #about .about-content p {
+        font-size: 12px;
+    }
+
+    #discover .discover-title h2 {
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    #discover .discover-btn-custom {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        font-family: 'Raleway', sans-serif;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 8px 35px;
+        text-transform: uppercase;
+        transition: 0.5s;
+    }
+
+    #slider .carousel-caption h5 i {
+        font-size: 40px;
+    }
+
+    #slider .carousel-caption p {
+        font-size: 10px;
+        padding-bottom: 0;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #baner-area .custom-form .form-btn-custom {
+        padding: 7px 0px;
+        width: 100%;
+        font-size: 14px;
+        font-weight: 600;
+        color: #fff;
+    }
+
+    #baner-area .baner-content h4 {
+        font-size: 18px;
+    }
+
+    #baner-area .baner-content p {
+        font-size: 12px;
+    }
+
+    #baner-area .form-wrap p {
+        font-size: 12px;
+    }
+
+    #baner-area .custom-form .form-control::placeholder {
+        font-size: 10px;
+    }
+
+    #services h4.service-heading {
+        font-size: 15px;
+    }
+
+    #services p.service-text {
+        font-size: 12px;
+    }
+
+    #services .icon a i {
+        font-size: 40px;
+    }
+
+    #about .about-content h2 {
+        font-size: 20px;
+    }
+
+    #about .about-content p {
+        font-size: 12px;
+    }
+
+    #discover .discover-title h2 {
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    #discover .discover-btn-custom {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        font-family: 'Raleway', sans-serif;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 8px 35px;
+        text-transform: uppercase;
+        transition: 0.5s;
+    }
+
+    #slider .carousel-caption h5 i {
+        font-size: 40px;
+    }
+
+    #slider .carousel-caption p {
+        font-size: 10px;
+        padding-bottom: 0;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #baner-area .baner-content h4 {
+        font-size: 22px;
+    }
+
+    #baner-area .baner-content p {
+        font-size: 13px;
+    }
+
+    #baner-area .form-wrap p {
+        font-size: 13px;
+    }
+
+    #baner-area .custom-form .form-control::placeholder {
+        font-size: 13px;
+    }
+
+    #services h4.service-heading {
+        font-size: 13px;
+    }
+
+    #services p.service-text {
+        font-size: 12px;
+    }
+
+    #services .icon a i {
+        font-size: 70px;
+    }
+
+    #about .about-content h2 {
+        font-size: 28px;
+    }
+
+    #about .about-content p {
+        font-size: 13px;
+    }
+
+    #discover .discover-title h2 {
+        font-size: 18px;
+        margin-top: 11px;
+    }
+
+    #discover .discover-btn-custom {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        font-family: 'Raleway', sans-serif;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 8px 35px;
+        text-transform: uppercase;
+        transition: 0.5s;
+    }
+
+    #slider .carousel-caption h5 i {
+        font-size: 60px;
+    }
+
+    #slider .carousel-caption p {
+        font-size: 14px;
+        padding-bottom: 0;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #baner-area .baner-content h4 {
+        font-size: 32px;
+    }
+
+    #baner-area .baner-content p {
+        font-size: 16px;
+    }
+
+    #baner-area .form-wrap p {
+        font-size: 14px;
+    }
+
+    #services h4.service-heading {
+        font-size: 18px;
+    }
+
+    #services .icon a i {
+        font-size: 80px;
+    }
+
+    #about .about-content h2 {
+        font-size: 38px;
+    }
+
+    #discover .discover-title h2 {
+        font-size: 25px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
